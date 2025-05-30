@@ -34,7 +34,7 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 | Projeto                            | Descrição                                      | Link Vercel                              |
 |----------------------------------|------------------------------------------------|----------------------------------------|
 | [Portfolio](https://github.com/DevPeress/portfolio) | Meu portfólio pessoal feito com Next.js e Tailwind CSS | [Ver Deploy](https://portfolio-peres-seven.vercel.app) |
-| [Next.js Site de Gerenciar Vendas](https://github.com/DevPeress/Site-de-Gerenciamento-de-Vendas) | Template básico para projetos Next.js + Prisma + TypeScript | [Ver Deploy](https://site-de-gerenciamento-de-vendas.vercel.app/login) |
+| [Site de Gerenciar Vendas](https://github.com/DevPeress/Site-de-Gerenciamento-de-Vendas) | Template básico para projetos Next.js + Prisma + TypeScript | [Ver Deploy](https://site-de-gerenciamento-de-vendas.vercel.app/login) |
 | [Conversor para BRL](https://github.com/DevPeress/conversor-de-moedas) | Sistema de conversor de moedas para BRL | [Ver Deploy](https://conversor-de-moedas-indol.vercel.app) |
 
 ---
@@ -45,7 +45,7 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 |---------------------|-----------------------------------------|
 | LinkedIn            | [linkedin.com/in/devperes](https://www.linkedin.com/in/devperes)       |
 | Instagram           | [instagram.com/fah.peres](https://www.instagram.com/fah.peres)         |
-| Email               | fabricioperesdsantos@gmail.com           |
+| Email               | [Email](mailto:fabricioperesdsantos@gmail.com)          |
 | Discord             | DevPeres                          |
 
 ---
@@ -53,12 +53,6 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 ## 📊 Minhas Estatísticas no GitHub
 
 ![DevPeress's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPeress&show_icons=true&theme=radical)
-
----
-
-### ⚡ Curiosidade
-
-> “A jornada do conhecimento é contínua — o segredo é nunca parar de aprender.”  
 
 ---
 
