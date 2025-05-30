@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Fabrício Peres (DevPeress)
+<h1 align="center">👋 Olá, eu sou Fabrício Peres (Peres)</h1>
 
 <div align="center">
   <a href="https://github.com/DevPeress">
@@ -34,7 +34,7 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 | Projeto                            | Descrição                                      | Link Vercel                              |
 |----------------------------------|------------------------------------------------|----------------------------------------|
 | [Portfolio](https://github.com/DevPeress/portfolio) | Meu portfólio pessoal feito com React e Tailwind CSS | [Ver Deploy](https://portfolio-peres-seven.vercel.app) |
-| [Site de Gerenciar Vendas](https://github.com/DevPeress/Site-de-Gerenciamento-de-Vendas) | Template básico para projetos Next.js + Prisma + TypeScript | [Ver Deploy](https://site-de-gerenciamento-de-vendas.vercel.app/login) |
+| [Site de Gerenciar Vendas](https://github.com/DevPeress/Site-de-Gerenciamento-de-Vendas) | Site para gerenciar vendas feito com Next.js + Prisma + TypeScript | [Ver Deploy](https://site-de-gerenciamento-de-vendas.vercel.app/login) |
 | [Conversor para BRL](https://github.com/DevPeress/conversor-de-moedas) | Sistema de conversor de moedas para BRL feito em React e TailWind CSS | [Ver Deploy](https://conversor-de-moedas-indol.vercel.app) |
 
 ---
@@ -43,10 +43,10 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 
 | Plataforma          | Link                                    |
 |---------------------|-----------------------------------------|
-| LinkedIn            | [linkedin.com/in/devperes](https://www.linkedin.com/in/devperes)       |
-| Instagram           | [instagram.com/fah.peres](https://www.instagram.com/fah.peres)         |
-| Email               | [fabricioperesdsantos@gmail.com](mailto:fabricioperesdsantos@gmail.com)          |
-| Discord             | DevPeres                          |
+| LinkedIn            | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devperes) |
+| Instagram           | [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fah.peres) |
+| Email               | [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricioperesdsantos@gmail.com) |
+| Discord             | [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#) #DevPeres |
 
 ---
 
