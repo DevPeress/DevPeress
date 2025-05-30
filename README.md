@@ -24,16 +24,18 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </div>
 
 ---
 
 ## 📂 Projetos em destaque
 
-| Projeto                            | Descrição                                      | Link GitHub                              |
+| Projeto                            | Descrição                                      | Link Vercel                              |
 |----------------------------------|------------------------------------------------|----------------------------------------|
-| [Portfolio](https://github.com/DevPeress/portfolio) | Meu portfólio pessoal feito com Next.js e Tailwind CSS | [Ver Repositório](https://github.com/DevPeress/portfolio) |
-| [Next.js Template TS Prisma](https://github.com/DevPeress/nextjs-prisma-typescript-template) | Template básico para projetos Next.js + Prisma + TypeScript | [Ver Repositório](https://github.com/DevPeress/nextjs-prisma-typescript-template) |
+| [Portfolio](https://github.com/DevPeress/portfolio) | Meu portfólio pessoal feito com Next.js e Tailwind CSS | [Ver Deploy](https://portfolio-peres-seven.vercel.app) |
+| [Next.js Site de Gerenciar Vendas](https://github.com/DevPeress/Site-de-Gerenciamento-de-Vendas) | Template básico para projetos Next.js + Prisma + TypeScript | [Ver Deploy](https://site-de-gerenciamento-de-vendas.vercel.app/login) |
+| [Conversor para BRL](https://github.com/DevPeress/conversor-de-moedas) | Sistema de conversor de moedas para BRL | [Ver Deploy](https://conversor-de-moedas-indol.vercel.app) |
 
 ---
 
@@ -44,7 +46,7 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 | LinkedIn            | [linkedin.com/in/devperes](https://www.linkedin.com/in/devperes)       |
 | Instagram           | [instagram.com/fah.peres](https://www.instagram.com/fah.peres)         |
 | Email               | fabricioperesdsantos@gmail.com           |
-| Discord             | PeresDev#2763                            |
+| Discord             | DevPeres                          |
 
 ---
 
