@@ -62,9 +62,9 @@ Conversor simples e direto com atualização automática das taxas.
 
 ## 📫 Contato
 
-[[LinkedIn](https://img.shields.io/badge/-DevPeress-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devperes)  
-[[Gmail](https://img.shields.io/badge/-fabricioperesdsantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:fabricioperesdsantos@gmail.com)  
-[[GitHub](https://img.shields.io/github/followers/DevPeress?label=Follow&style=social)](https://github.com/DevPeress)
+[![LinkedIn](https://img.shields.io/badge/-DevPeress-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devperes)
+[![Gmail](https://img.shields.io/badge/-fabricioperesdsantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:fabricioperesdsantos@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/DevPeress?label=Follow&style=social)](https://github.com/DevPeress)
 
 ---
 
