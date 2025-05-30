@@ -60,20 +60,11 @@ Conversor simples e direto com atualização automática das taxas.
 
 ---
 
-## 💼 Experiência
-
-### 🛍️ Maze Store (dez/2023 – abr/2025)  
-**Desenvolvedor Full-Stack de sistemas para FiveM**  
-- Criação de scripts e sistemas personalizados usando Lua, React e integração com banco de dados  
-- Foco em performance, usabilidade e personalização para servidores de roleplay  
-
----
-
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-DevPeress-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devperes)  
-[![Gmail](https://img.shields.io/badge/-fabricioperesdsantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:fabricioperesdsantos@gmail.com)  
-[![GitHub](https://img.shields.io/github/followers/DevPeress?label=Follow&style=social)](https://github.com/DevPeress)
+[LinkedIn](https://img.shields.io/badge/-DevPeress-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devperes)  
+[Gmail](https://img.shields.io/badge/-fabricioperesdsantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:fabricioperesdsantos@gmail.com)  
+[GitHub](https://img.shields.io/github/followers/DevPeress?label=Follow&style=social)](https://github.com/DevPeress)
 
 ---
 
