@@ -33,9 +33,9 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 
 | Projeto                            | Descrição                                      | Link Vercel                              |
 |----------------------------------|------------------------------------------------|----------------------------------------|
-| [Portfolio](https://github.com/DevPeress/portfolio) | Meu portfólio pessoal feito com Next.js e Tailwind CSS | [Ver Deploy](https://portfolio-peres-seven.vercel.app) |
+| [Portfolio](https://github.com/DevPeress/portfolio) | Meu portfólio pessoal feito com React e Tailwind CSS | [Ver Deploy](https://portfolio-peres-seven.vercel.app) |
 | [Site de Gerenciar Vendas](https://github.com/DevPeress/Site-de-Gerenciamento-de-Vendas) | Template básico para projetos Next.js + Prisma + TypeScript | [Ver Deploy](https://site-de-gerenciamento-de-vendas.vercel.app/login) |
-| [Conversor para BRL](https://github.com/DevPeress/conversor-de-moedas) | Sistema de conversor de moedas para BRL | [Ver Deploy](https://conversor-de-moedas-indol.vercel.app) |
+| [Conversor para BRL](https://github.com/DevPeress/conversor-de-moedas) | Sistema de conversor de moedas para BRL feito em React e TailWind CSS | [Ver Deploy](https://conversor-de-moedas-indol.vercel.app) |
 
 ---
 
