@@ -45,7 +45,7 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 |---------------------|-----------------------------------------|
 | LinkedIn            | [linkedin.com/in/devperes](https://www.linkedin.com/in/devperes)       |
 | Instagram           | [instagram.com/fah.peres](https://www.instagram.com/fah.peres)         |
-| Email               | [Email](mailto:fabricioperesdsantos@gmail.com)          |
+| Email               | [fabricioperesdsantos@gmail.com](mailto:fabricioperesdsantos@gmail.com)          |
 | Discord             | DevPeres                          |
 
 ---
