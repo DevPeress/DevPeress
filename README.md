@@ -73,8 +73,3 @@ Conversor simples e direto com atualização automática das taxas.
 ![DevPeress GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPeress&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPeress&layout=compact&theme=tokyonight)
 
----
-
-🔎 Sempre aberto a novos desafios, colaborações e oportunidades!  
-Vamos conversar?
-
