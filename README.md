@@ -54,7 +54,6 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 
 ![DevPeress's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPeress&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPeress&layout=compact&theme=radical)
-![GitHub Contribution Calendar](https://github.com/DevPeress.png?tab=activity)
 
 ---
 
