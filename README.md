@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Fabrício Peres (Peres)</h1>
+<h1 align="center">👋 Olá, eu sou Fabrício Peres mais conhecido como Peres</h1>
 
 <div align="center">
   <a href="https://github.com/DevPeress">
