@@ -35,7 +35,7 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 
 ## 📂 Projetos em destaque
 
-| Projeto                            | Descrição                                      | Link Vercel                              |
+| Projeto                            | Descrição                                      | Link                               |
 |----------------------------------|------------------------------------------------|----------------------------------------|
 | [Portfolio](https://github.com/DevPeress/portfolio) | Meu portfólio pessoal feito com React e Tailwind CSS | [Ver Deploy](https://portfolio-peres-seven.vercel.app) |
 | [Back-End](https://github.com/DevPeress/Empresa) | Back-End em TypeScript de um sistema de Empresa | [Ver Código](https://github.com/DevPeress/Empresa) |
