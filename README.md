@@ -62,4 +62,4 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 
 ---
 
-Obrigado pela visita! Sinta-se à vontade para me contatar ou colaborar em projetos. 🚀
+Obrigado pela visita! Sinta-se à vontade para me contatar ou colaborar em projetos 🚀
