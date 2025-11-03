@@ -18,7 +18,7 @@ Tenho experiência criando soluções práticas e eficientes, focando em qualida
 ## 🛠 Tecnologias & Ferramentas
 
 <div>
-  <img alt="Angular" src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
