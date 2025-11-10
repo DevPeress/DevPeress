@@ -11,8 +11,6 @@
 Sou estudante de Ciência da Computação pela Universidade São Judas Tadeu, com conclusão prevista para dezembro de 2025.  
 Apaixonado por desenvolvimento web e atualmente desenvolvedor full-stack trainee pela TIVIT
 
-Tenho experiência criando soluções práticas e eficientes, focando em qualidade, boas práticas e código limpo. Estou sempre aprendendo novas tecnologias e buscando compartilhar conhecimento com a comunidade.
-
 ---
 
 ## 🛠 Tecnologias & Ferramentas
