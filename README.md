@@ -59,7 +59,7 @@ Apaixonado por desenvolvimento web e atualmente desenvolvedor full-stack trainee
 ## 📊 Minhas Estatísticas no GitHub
 
 ![DevPeress's GitHub stats]([https://github-readme-stats.vercel.app/api?username=DevPeress&show_icons=true&theme=radical](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevPeress&show_icons=true&theme=tokyonight))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPeress&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevPeress&layout=compact&theme=tokyonight)
 
 ---
 
