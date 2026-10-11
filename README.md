@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou formado em Ciência da Computação pela Universidade São Judas Tadeu e atualmente atuo como Engenheiro de Software full-stack na TIVIT. Tenho grande paixão por tecnologia, especialmente por desenvolvimento web, soluções escaláveis e experiências digitais que unem bom design com funcionalidade.
+Sou formado em Ciência da Computação pela Universidade São Judas Tadeu e atuo como Engenheiro de Software Trainee na TIVIT, com experiência full-stack no desenvolvimento de sistemas web. Tenho interesse em criar soluções que atendam às necessidades dos clientes, desde o entendimento dos requisitos até a implementação de melhorias.
 
 Minha jornada na programação vem do desejo de transformar ideias em produtos reais, úteis e bem estruturados. Estou sempre buscando aprender novas ferramentas, melhorar minhas habilidades e contribuir em projetos que tenham impacto prático e valor para as pessoas.
 
@@ -24,10 +24,13 @@ Minha jornada na programação vem do desejo de transformar ideias em produtos r
 
 ## 💼 Experiência Profissional
 
-- Engenheiro de Software Full-Stack Trainee na TIVIT
-  - Desenvolvimento de aplicações web com foco em experiência do usuário e qualidade de entrega
-  - Participação em projetos com tecnologias modernas no ecossistema de desenvolvimento web
-  - Trabalho em soluções que envolvem frontend, backend, integrações e banco de dados
+### Engenheiro de Software Trainee — TIVIT
+**Agosto de 2025 – Atual**
+
+- Desenvolvimento de sistemas web utilizando .NET, React, Blazor, TypeScript e JavaScript
+- Levantamento e entendimento de requisitos junto aos clientes
+- Investigação e resolução de problemas relatados pelos clientes
+- Implementação de melhorias para atender às necessidades dos clientes
 
 ---
 
@@ -37,6 +40,7 @@ Minha jornada na programação vem do desejo de transformar ideias em produtos r
 <div>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
