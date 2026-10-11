@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Ciência da Computação pela Universidade São Judas Tadeu, com conclusão prevista para dezembro de 2025, e atualmente atuo como desenvolvedor full-stack trainee na TIVIT. Tenho grande paixão por tecnologia, especialmente por desenvolvimento web, soluções escaláveis e experiências digitais que unem bom design com funcionalidade.
+Sou formado em Ciência da Computação pela Universidade São Judas Tadeu e atualmente atuo como Engenheiro de Software full-stack na TIVIT. Tenho grande paixão por tecnologia, especialmente por desenvolvimento web, soluções escaláveis e experiências digitais que unem bom design com funcionalidade.
 
 Minha jornada na programação vem do desejo de transformar ideias em produtos reais, úteis e bem estruturados. Estou sempre buscando aprender novas ferramentas, melhorar minhas habilidades e contribuir em projetos que tenham impacto prático e valor para as pessoas.
 
