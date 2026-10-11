@@ -8,9 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou formado em Ciência da Computação pela Universidade São Judas Tadeu e atuo como Engenheiro de Software Trainee na TIVIT, com experiência full-stack no desenvolvimento de sistemas web. Tenho interesse em criar soluções que atendam às necessidades dos clientes, desde o entendimento dos requisitos até a implementação de melhorias.
-
-Minha jornada na programação vem do desejo de transformar ideias em produtos reais, úteis e bem estruturados. Estou sempre buscando aprender novas ferramentas, melhorar minhas habilidades e contribuir em projetos que tenham impacto prático e valor para as pessoas.
+Sou formado em Ciência da Computação pela Universidade São Judas Tadeu e atuo como **Engenheiro de Software Trainee (Full-Stack)** na TIVIT. Trabalho no desenvolvimento de sistemas web e na criação de soluções alinhadas às necessidades dos clientes.
 
 ### ✨ O que me move
 
@@ -24,7 +22,7 @@ Minha jornada na programação vem do desejo de transformar ideias em produtos r
 
 ## 💼 Experiência Profissional
 
-### Engenheiro de Software Trainee — TIVIT
+### Engenheiro de Software Trainee (Full-Stack) — TIVIT
 **Agosto de 2025 – Atual**
 
 - Desenvolvimento de sistemas web utilizando .NET, React, Blazor, TypeScript e JavaScript
