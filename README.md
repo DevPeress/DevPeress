@@ -62,7 +62,7 @@ Minha jornada na programação vem do desejo de transformar ideias em produtos r
 
 | Projeto | Descrição | Status / Link |
 |---|---|---|
-| [Portfolio](https://github.com/DevPeress/portfolio) | Portfolio pessoal desenvolvido com React e Tailwind CSS, com foco em apresentação profissional e experiência visual moderna. | [Ver Deploy](https://portfolio-peres-seven.vercel.app) |
+| [Portfolio](https://github.com/DevPeress/portfolio) | Portfolio pessoal desenvolvido com React, com foco em apresentação profissional e experiência visual moderna. | [Ver Deploy](https://portfolio-peres-seven.vercel.app) |
 | [Back-End](https://github.com/DevPeress/Empresa) | API em TypeScript para um sistema empresarial, com estrutura organizada para gestão e integração de dados. | [Ver Código](https://github.com/DevPeress/Empresa) |
 | [Site de Gerenciar Vendas](https://github.com/DevPeress/Site-de-Gerenciamento-de-Vendas) | Sistema para gestão de vendas construído com Next.js, Prisma e TypeScript, com foco em organização, controle e produtividade. | [Ver Código](https://github.com/DevPeress/Site-de-Gerenciamento-de-Vendas) |
 
