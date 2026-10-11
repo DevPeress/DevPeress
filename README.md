@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Fabrício Peres mais conhecido como Peres</h1>
+<h1 align="center">👋 Olá, eu sou Fabrício Peres, também conhecido como Peres</h1>
 
 <div align="center">
   <a href="https://github.com/DevPeress">
@@ -8,8 +8,17 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Ciência da Computação pela Universidade São Judas Tadeu, com conclusão prevista para dezembro de 2025.  
-Apaixonado por desenvolvimento web e atualmente desenvolvedor full-stack trainee pela TIVIT
+Sou estudante de Ciência da Computação pela Universidade São Judas Tadeu, com conclusão prevista para dezembro de 2025, e atualmente atuo como desenvolvedor full-stack trainee na TIVIT. Tenho grande paixão por tecnologia, especialmente por desenvolvimento web, soluções escaláveis e experiências digitais que unem bom design com funcionalidade.
+
+Minha jornada na programação vem do desejo de transformar ideias em produtos reais, úteis e bem estruturados. Estou sempre buscando aprender novas ferramentas, melhorar minhas habilidades e contribuir em projetos que tenham impacto prático e valor para as pessoas.
+
+### ✨ O que me move
+
+- Desenvolvimento web full-stack
+- APIs, bancos de dados e arquitetura de sistemas
+- Criar interfaces intuitivas e experiências positivas para o usuário
+- Aprender continuamente e evoluir como profissional
+- Resolver problemas com código limpo, organizado e eficiente
 
 ---
 
